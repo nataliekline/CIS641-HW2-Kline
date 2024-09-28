@@ -1,3 +1,14 @@
+<div style="text-align: center;">
+  <img src="./Images/Headshot.JPG" alt="Headshot" style="width: 175px; height: 175px; border-radius: 50%; object-fit: cover; display: inline-block;">
+  
+  <a href="https://www.linkedin.com/in/nataliemkline" target="_blank">
+    <img src="./Images/LinkedInLogo.webp" alt="LinkedIn Profile" width="22" style="vertical-align: middle;">
+  </a>
+  <a href="https://github.com/nataliemkline" target="_blank">
+    <img src="./Images/GithubLogo.png" alt="Github Profile" width="20" style="vertical-align: middle;">
+  </a>
+</div>
+
 # Natalie Kline
 * Passionate about frontend development, aiming to create intuitive and engaging user experiences
 * Interested in computer graphics, despite not yet having the opportunity to dabble in it
@@ -15,3 +26,7 @@ My background in full-stack software development has been acquired through inter
 <br/>
 
 [Favorite Meme](https://i.pinimg.com/736x/dc/4b/10/dc4b101f7c86f29ed800bc44919028ae.jpg)
+
+<br/>
+
+

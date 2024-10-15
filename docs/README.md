@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/nataliemkline" target="_blank">
     <img src="../images/LinkedInLogo.webp" alt="LinkedIn Profile" width="25" style="vertical-align: middle;">
   </a>
-  <img src="../images/Headshot.JPG" alt="Headshot" style="width: 175px; height: 175px; border-radius: 50%; object-fit: cover; display: inline-block;">
+  <img src="../images/HeadshotImage.JPG" alt="Headshot" style="width: 175px; height: 175px; border-radius: 50%; object-fit: cover; display: inline-block;">
   <a href="https://github.com/nataliemkline" target="_blank">
     <img src="../images/GithubLogo.png" alt="Github Profile" width="25" style="vertical-align: middle;">
   </a>

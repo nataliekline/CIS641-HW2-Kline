@@ -1,4 +1,4 @@
-![Headshot](../images/HeadshotImage.JPG)
+![Headshot](https://github.com/nataliekline/CIS641-HW2-Kline/blob/main/Images/HeadshotImage.JPG?raw=true)
 
 # Natalie Kline
 
